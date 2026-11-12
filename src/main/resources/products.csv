@@ -1,0 +1,7 @@
+type,id,name,brand,price,stock,extra
+SKINCARE,P001,Crème hydratante,Nivea,12.50,20,peau sèche
+SKINCARE,P002,Sérum vitamine C,The Ordinary,15.90,10,tous types
+MAKEUP,P003,Rouge à lèvres,Maybelline,9.99,30,rouge
+MAKEUP,P004,Fond de teint,L'Oréal,14.50,15,beige
+PERFUME,P005,Eau de parfum,Dior,79.00,5,50
+PERFUME,P006,Eau de toilette,Chanel,65.00,0,100
